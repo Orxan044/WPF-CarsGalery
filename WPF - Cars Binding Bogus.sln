@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPF - Cars Binding Bogus", "WPF - Cars Binding Bogus\WPF - Cars Binding Bogus.csproj", "{D25A4812-AE11-4F1C-A930-0E94FA38339A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D25A4812-AE11-4F1C-A930-0E94FA38339A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D25A4812-AE11-4F1C-A930-0E94FA38339A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D25A4812-AE11-4F1C-A930-0E94FA38339A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D25A4812-AE11-4F1C-A930-0E94FA38339A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {624FA70A-CD32-4F5E-B1C3-FB45D94E4542}
+	EndGlobalSection
+EndGlobal
